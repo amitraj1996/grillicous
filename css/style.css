@@ -945,7 +945,7 @@ h1{
 	font-family: BernardoModaSemibold;
 	color:#fff;
 	text-transform: uppercase;
-	font-size: 30px;
+	font-size: 20px;
 	max-width:700px;
 	text-align: justify;
 	margin: 0 20px;
@@ -1639,7 +1639,7 @@ svg#tracesvg{
 	.mug-3{
 		position: absolute;
 		top: 3300px;
-		left: calc(50% - 60px);
+		left: calc(50% - 10px);
 		z-index: 630;
 	}
 
